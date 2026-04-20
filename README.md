@@ -1,4 +1,4 @@
-# Personal-Brand-Website
+# Apple-Brand-Website
 
 A modern, Apple-inspired personal brand website with a responsive design, interactive features, and fully functional email contact system.
 
