@@ -19,7 +19,6 @@ body {
     padding: 0 20px;
 }
 
-/* Navigation */
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -87,7 +86,6 @@ body {
     color: #1d1d1f;
 }
 
-/* Hero Section - Responsive */
 .hero {
     padding: 50px 0 50px;
     text-align: center;
@@ -162,7 +160,6 @@ body {
     margin-left: 6px;
 }
 
-/* Hero Visual */
 .hero-visual {
     margin-top: 40px;
     background: #f8f8f8;
@@ -237,7 +234,6 @@ body {
     opacity: 0.9;
 }
 
-/* Section Titles */
 .section-title {
     font-size: 2.2rem;
     font-weight: 600;
@@ -252,7 +248,6 @@ body {
     font-weight: 400;
 }
 
-/* Card Grid */
 .card-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -294,7 +289,6 @@ body {
     font-size: 0.9rem;
 }
 
-/* Brand Showcase */
 .brand-showcase {
     background: #2a2a2a;
     border-radius: 15px;
@@ -364,7 +358,6 @@ body {
     font-weight: 500;
 }
 
-/* Contact Form Section */
 .contact-section {
     margin: 50px 0;
 }
@@ -475,7 +468,6 @@ body {
     border: 1px solid #a5b4fc;
 }
 
-/* Interactive Demo */
 .interactive-demo {
     margin: 40px 0 60px;
     background: #f0f0f0;
@@ -511,7 +503,6 @@ body {
     background: #3a3a3a;
 }
 
-/* Footer */
 .footer {
     border-top: 1px solid #ddd;
     padding: 25px 0 15px;
@@ -537,7 +528,6 @@ body {
     font-size: 0.8rem;
 }
 
-/* Mobile Menu Styles */
 @media (max-width: 768px) {
     .nav-links {
         display: none;
@@ -595,7 +585,6 @@ body {
     }
 }
 
-/* Transitions */
 .btn-primary,
 .apple-btn,
 .submit-btn {
@@ -614,7 +603,6 @@ body {
     transform: scale(1);
 }
 
-/* Utility Classes */
 .flex-spacer {
     flex: 1;
 }
